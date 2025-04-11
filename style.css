@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+body {
+    background-color: #131313;
+}
+
+header {
+    background-color:  #ad12ad;
+}
+
+main {
+    background-color: rgb(3, 3, 3);
+    color: #ffffff;
+}
+
+footer {
+    background-color:#ad12ad;
+}
+
+h1 {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+ .btsWAB{ 
+    background-color: #ad12ad;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+}
+.color1{ 
+    background-color: aqua;
+}
+
+.contenedorcarrousel{
+    background-color: #131313
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30%;
+    margin-right:50px;
+    margin-bottom: 20px;
+}
+
+.carrousel {
+    background-color: rgb(141, 14, 141);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.textoCarrousel {
+ background-color: #501250;
+ color: #ffffff;
+ margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.imagenPrincipal{
+ margin-left: 40%;
+ margin-right: 50px;
+}
