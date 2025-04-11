@@ -39,10 +39,10 @@ h1 {
 .contenedorcarrousel{
     background-color: #131313
     display: flex;
-    margin-top: 50px;
-    margin-left: 30%;
-    margin-right:50px;
-    margin-bottom: 20px;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right:40%;
+    margin-bottom: 10%;
 }
 
 .carrousel {
@@ -63,5 +63,7 @@ h1 {
 
 .imagenPrincipal{
  margin-left: 40%;
- margin-right: 50px;
+ margin-right: 40%;
+ margin-top: 10% ;
+ margin-bottom: 10%;
 }
